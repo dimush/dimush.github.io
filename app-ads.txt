@@ -1,0 +1,14 @@
+# app-ads.txt for CrushLabyrinth
+# IAB Tech Lab Specification: https://iabtechlab.com/ads-txt/
+#
+# This file is used to declare authorized digital sellers for your app's ad inventory
+# Format: <DOMAIN>, <PUBLISHER_ID>, <RELATIONSHIP>, <CERTIFICATION_AUTHORITY_ID>
+#
+# DOMAIN: Domain name of the advertising system
+# PUBLISHER_ID: Publisher's account ID
+# RELATIONSHIP: DIRECT or RESELLER
+# CERTIFICATION_AUTHORITY_ID: (Optional) ID of the certification authority
+
+# Google AdMob
+google.com, pub-1665272374483034, DIRECT, f08c47fec0942fa0
+
