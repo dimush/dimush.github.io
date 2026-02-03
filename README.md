@@ -1,6 +1,6 @@
-# Crush Labyrinth - Android Game
+# Softosaurus - Mobile Apps
 
-A challenging puzzle game for Android.
+Mobile applications for Android.
 
 ## 🌐 Developer Website
 
@@ -9,7 +9,9 @@ A challenging puzzle game for Android.
 
 ## 📱 Download
 
-Available on Google Play Store: [Crush Labyrinth](https://play.google.com/store/apps/details?id=org.softosaurus.crushlabyrinth)
+Available on Google Play Store:
+- [Crush Labyrinth](https://play.google.com/store/apps/details?id=org.softosaurus.crushlabyrinth) - A challenging puzzle game
+- [Spectrum 3D](https://play.google.com/store/apps/details?id=org.softosaurus.spectrum3d) - Audio spectrum analysis tool with 3D surface and waterfall views
 
 ## 🔧 Development Setup
 
@@ -46,14 +48,23 @@ See `START_HERE_APP_ADS_TXT.md` for detailed instructions.
 - **`ADMOB_PRODUCTION_SETUP.md`** - AdMob production configuration
 - **`push_to_github.bat`** - Helper script to push to GitHub
 
-## 🎮 Game Features
+## 🎮 App Features
 
+### Crush Labyrinth
 - Challenging labyrinth puzzles
 - Progressive difficulty
 - Haptic feedback
 - Background music
 - Volume controls
 - AdMob integration
+
+### Spectrum 3D
+- Real-time audio spectrum analysis
+- 3D surface visualization
+- Waterfall view display
+- FFT (Fast Fourier Transform) processing
+- Adjustable frequency range
+- Professional audio analysis tool
 
 ## 📝 License
 

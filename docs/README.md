@@ -1,6 +1,6 @@
-# Softosaurus - Crush Labyrinth
+# Softosaurus - Mobile Apps
 
-This is the GitHub Pages site for **Crush Labyrinth**, hosted for app verification purposes.
+This is the GitHub Pages site for **Softosaurus**, hosted for app verification purposes.
 
 ## Main Website
 Visit our main site at: [https://sites.google.com/view/softosaurus/home](https://sites.google.com/view/softosaurus/home)
@@ -10,9 +10,13 @@ Visit our main site at: [https://sites.google.com/view/softosaurus/home](https:/
 - **index.html** - Landing page with link to main site
 - **app-ads.txt** - AdMob verification file (IAB Tech Lab standard)
 
-## About Crush Labyrinth
+## Our Apps
 
+### Crush Labyrinth
 A challenging puzzle game available on Google Play Store.
+
+### Spectrum 3D
+An audio spectrum analysis tool with 3D surface and waterfall views, featuring FFT processing. Available on Google Play Store.
 
 ---
 
