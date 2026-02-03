@@ -11,7 +11,7 @@ Mobile games for Android.
 
 Available on Google Play Store:
 - [Crush Labyrinth](https://play.google.com/store/apps/details?id=org.softosaurus.crushlabyrinth) - A challenging puzzle game
-- [Spectrum3D](https://play.google.com/store/apps/details?id=org.softosaurus.spectrum3d) - An exciting 3D game
+- [Spectrum 3D](https://play.google.com/store/apps/details?id=org.softosaurus.spectrum3d) - An exciting 3D game
 
 ## 🔧 Development Setup
 
@@ -58,7 +58,7 @@ See `START_HERE_APP_ADS_TXT.md` for detailed instructions.
 - Volume controls
 - AdMob integration
 
-### Spectrum3D
+### Spectrum 3D
 - Immersive 3D gameplay
 - Engaging levels
 - Intuitive controls

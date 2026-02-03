@@ -15,7 +15,7 @@ Visit our main site at: [https://sites.google.com/view/softosaurus/home](https:/
 ### Crush Labyrinth
 A challenging puzzle game available on Google Play Store.
 
-### Spectrum3D
+### Spectrum 3D
 An exciting 3D game available on Google Play Store.
 
 ---
